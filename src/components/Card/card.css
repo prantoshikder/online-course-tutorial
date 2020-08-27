@@ -1,0 +1,15 @@
+.main {
+    margin-top: 80px;
+}
+
+.card {
+    display: flex;
+    border-radius: 10px;
+}
+
+.card img {
+    height: 200px;
+    width: 97%;
+    margin: 5px;
+    border-radius: 5px;
+}

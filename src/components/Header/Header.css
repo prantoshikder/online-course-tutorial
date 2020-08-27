@@ -1,0 +1,18 @@
+.headerMenu {
+    background: #000;
+}
+
+.navbar a {
+    color: #ffffff;
+}
+
+.navbar-nav .nav-item {
+    margin-right: 15px;
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: #ffffff;
+    font-size: 17px;
+    text-transform: uppercase;
+    padding: 10px 0px;
+}

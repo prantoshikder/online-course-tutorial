@@ -1,0 +1,9 @@
+.cart {
+    margin-top: 80px;
+    border: 2px solid #ccc;
+    padding: 25px 15px;
+}
+
+.cart h3 {
+    color: #ffce08;
+}

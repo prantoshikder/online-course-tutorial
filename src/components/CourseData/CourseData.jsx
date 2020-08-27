@@ -1,0 +1,88 @@
+var courseData = [
+    {
+        "image": 'https://w3-lab.com/wp-content/uploads/2019/12/Get-the-Most-Fancied-Web-Development-Services-min-scaled.jpg',
+        "id": 1,
+        "courseName": 'Wev Development',
+        "price": '55',
+        "courseDuration": '24 weeks',
+    },
+    {
+        "image": 'https://fetedugraphisme.org/wp-content/uploads/2018/10/graphic-design-1.jpg',
+        "id": 2,
+        "courseName": 'Graphics Design',
+        "price": '45',
+        "courseDuration": '24 weeks',
+    },
+    {
+        "image": 'https://cdn.cyberchimps.com/wp-content/uploads/2016/06/am-i-responsive.png',
+        "id": 3,
+        "courseName": 'Responsive Design',
+        "price": '25',
+        "courseDuration": '24 weeks',
+    },
+    {
+        "image": 'https://www.theindependentbd.com/assets/news_images/Digital-marketing2.jpg',
+        "id": 4,
+        "courseName": 'Digital Marketing',
+        "price": '35',
+        "courseDuration": '24 weeks',
+    },
+    {
+        "image": 'https://www.hostpapa.be/blog/wp-content/uploads/2019/07/seo-for-beginners.jpg',
+        "id": 5,
+        "courseName": 'SEO',
+        "price": '22',
+        "courseDuration": '24 weeks',
+    },
+    {
+        "image": 'https://www.freelancetoindia.com/wp-content/uploads/2019/01/WordPress-Development.jpg',
+        "id": 6,
+        "courseName": 'WordPress Developer',
+        "price": '30',
+        "courseDuration": '24 weeks',
+    },
+    {
+        "image": 'https://i.ytimg.com/vi/4VodrfAKdaU/maxresdefault.jpg',
+        "id": 7,
+        "courseName": 'Video Editing',
+        "price": '19',
+        "courseDuration": '24 weeks',
+    },
+    {
+        "image": 'https://articles-img.sftcdn.net/image/upload/c_scale,q_auto:good,w_700/v1550857556/editorial/New-Project-5.jpg',
+        "id": 8,
+        "courseName": 'Microsoft Office',
+        "price": '10',
+        "courseDuration": '24 weeks',
+    },
+    {
+        "image": 'https://www.lyfemarketing.com/blog/wp-content/uploads/2018/11/social-media-marketing-on-facebook.jpg',
+        "id": 9,
+        "courseName": 'Facebook Marketing',
+        "price": '18',
+        "courseDuration": '24 weeks',
+    },
+    {
+        "image": 'https://www.colocationamerica.com/images/ethical-hacking.jpg',
+        "id": 10,
+        "courseName": 'Ethical Hacking',
+        "price": '50',
+        "courseDuration": '24 weeks',
+    },
+    {
+        "image": 'https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/111334766/original/e92cf0bf7260cca178a06154ca4fe15b95d85f67/be-your-full-time-php-developer.jpg',
+        "id": 11,
+        "courseName": 'PHP Developer',
+        "price": '55',
+        "courseDuration": '24 weeks',
+    },
+    {
+        "image": 'https://oneest.com/assets/uploads/img/react-dev.png',
+        "id": 12,
+        "courseName": 'React Developer',
+        "price": '45',
+        "courseDuration": '24 weeks',
+    },
+];
+
+export default courseData;
